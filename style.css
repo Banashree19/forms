@@ -1,0 +1,50 @@
+*{
+    margin: 4px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Zen Kaku Gothic New', sans-serif;
+  
+ 
+}
+
+
+body{
+    background-color: #eee;
+}
+.form-group{
+    margin: 1rem;
+    text-align: center;
+    
+}
+
+#sameMail {
+    display:inline-block;
+}
+#message{
+    height:6rem;
+    width: 54rem;
+
+}
+.col-sm-2{
+    float: left;
+    width:27rem;
+}
+#send{
+ background-color: #eee;
+ color: #212d31;
+}
+
+a{
+    color: #343a40;
+    text-decoration: none;
+}
+#text{
+    width:24rem;
+    margin-top: 81px;
+}
+.num{
+    color: #ff0000;
+}
+#checked{
+    margin-right:10rem;
+}
